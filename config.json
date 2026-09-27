@@ -1,0 +1,7 @@
+{
+    "api_url": "https://fans.ouepamal.fr/?api=fans",
+    "interval": 60,
+    "fan_limit": 20,
+    "fan_set": 15,
+    "request_timeout": 20
+}
